@@ -101,6 +101,7 @@ HIT140_G51_A3/
 ├── plot5_risk_by_season.png
 ├── plot6_correlation_matrix.png
 ├── plot7_monthly_trends.png
-└── plot8_reward_success_analysis.png
+├── plot8_reward_success_analysis.png
+└── Turnitin receipt_HIT140 G51 A3.docx.pdf
 ```
 
