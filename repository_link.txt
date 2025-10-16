@@ -1,18 +1,21 @@
 HIT140 Assessment 3 - Python Code Repository
 
-GitHub Link: https://github.com/YOUR_USERNAME/HIT140_Assessment3
-
-Instructions to access:
-1. [If private GitHub] Request access from: your.email@example.com
-2. All Python files are in the main folder
-3. Datasets (dataset1.csv, dataset2.csv) are included
+GitHub Link: https://github.com/harshrastogii/HIT140_G51_A3/
 
 Files included:
-- analysis.py (main analysis script)
-- dataset1.csv
-- dataset2.csv
-- README.md (if created)
-- 
+├── README.md
+├── requirements.txt
+├── analysis.py
+├── dataset1.csv
+├── dataset2.csv
+├── plot1_vigilance_comparison.png
+├── plot2_risk_behavior.png
+├── plot3_seasonal_vigilance.png
+├── plot4_rat_activity_seasons.png
+├── plot5_risk_by_season.png
+├── plot6_correlation_matrix.png
+├── plot7_monthly_trends.png
+├── plot8_reward_success_analysis.png
 
 Python environment:
 - Python version: 3.24.1
