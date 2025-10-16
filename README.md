@@ -82,13 +82,12 @@ Chen, X., Harten, L., Rachum, A., Attia, L., & Yovel, Y. (2025). Complex competi
 ## License
 
 Educational project for HIT140 Foundations of Data Science, Charles Darwin University, S2 2025.
-```
 
----
 
 ## 📁 REPO STRUCTURE
 
-``` HIT140_G51_A3/
+```
+HIT140_G51_A3/
 ├── README.md
 ├── requirements.txt
 ├── analysis.py
