@@ -88,8 +88,7 @@ Educational project for HIT140 Foundations of Data Science, Charles Darwin Unive
 
 ## 📁 REPO STRUCTURE
 
-```
-HIT140_G51_A3/
+``` HIT140_G51_A3/
 ├── README.md
 ├── requirements.txt
 ├── analysis.py
@@ -102,5 +101,5 @@ HIT140_G51_A3/
 ├── plot5_risk_by_season.png
 ├── plot6_correlation_matrix.png
 ├── plot7_monthly_trends.png
-└── plot8_reward_success_analysis.png
-```
+└── plot8_reward_success_analysis.png ```
+
