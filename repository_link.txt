@@ -1,0 +1,20 @@
+HIT140 Assessment 3 - Python Code Repository
+
+GitHub Link: https://github.com/YOUR_USERNAME/HIT140_Assessment3
+
+Instructions to access:
+1. [If private GitHub] Request access from: your.email@example.com
+2. All Python files are in the main folder
+3. Datasets (dataset1.csv, dataset2.csv) are included
+
+Files included:
+- analysis.py (main analysis script)
+- dataset1.csv
+- dataset2.csv
+- README.md (if created)
+- 
+
+Python environment:
+- Python version: 3.24.1
+- Required libraries: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
+- Install command: pip install pandas numpy matplotlib seaborn scipy scikit-learn
