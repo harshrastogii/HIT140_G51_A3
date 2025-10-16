@@ -1,4 +1,4 @@
-<img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/cebb586e-dd61-4943-b18f-85e70f98e4cf" /># HIT140 Assessment 3: Bat vs Rat Foraging Analysis
+# HIT140 Assessment 3: Bat vs Rat Foraging Analysis
 
 ## Group 51 - Team Members
 - Harsh Rastogi - S386401
