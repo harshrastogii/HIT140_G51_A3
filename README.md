@@ -102,6 +102,7 @@ HIT140_G51_A3/
 ├── plot6_correlation_matrix.png
 ├── plot7_monthly_trends.png
 ├── plot8_reward_success_analysis.png
+├── HIT140 G51 A3.docx
 └── Turnitin receipt_HIT140 G51 A3.docx.pdf
 ```
 
