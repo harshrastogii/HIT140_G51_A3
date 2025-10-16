@@ -88,6 +88,7 @@ Educational project for HIT140 Foundations of Data Science, Charles Darwin Unive
 
 ```
 HIT140_G51_A3/
+
 ├── README.md
 ├── requirements.txt
 ├── analysis.py
